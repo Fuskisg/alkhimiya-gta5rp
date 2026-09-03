@@ -41,8 +41,8 @@ export default function App({ elements }) {
       "div",
       { className: "app" },
       React.createElement("header", { className: "hero" },
-        React.createElement("p", { className: "eyebrow" }, "ГТА5 РП · Little Alchemy 2"),
-        React.createElement("h1", null, "Алхимия ГТА5рп"),
+        React.createElement("p", { className: "eyebrow" }, "ГТА5 РП"),
+        React.createElement("h1", null, "Химия GTA5RP"),
         React.createElement("p", { className: "lead" },
           "Все элементы по-русски. Найди нужный и получи пошаговый рецепт от воздуха, земли, огня и воды."
         ),
